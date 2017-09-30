@@ -1,0 +1,22 @@
+{
+  "name": "axe",
+  "version": "0.0.1",
+  "description": "A simple ci",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AxeCode/axe.git"
+  },
+  "keywords": [
+    "ci"
+  ],
+  "author": "Young",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AxeCode/axe/issues"
+  },
+  "homepage": "https://github.com/AxeCode/axe#readme"
+}
